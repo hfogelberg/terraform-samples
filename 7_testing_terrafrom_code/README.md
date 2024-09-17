@@ -22,7 +22,7 @@ Terraform has a number of built in checks
 
 ## Automation
 - scripting: using e.g. bash or python
-- terratest: Go package to perform automated testing
+- [Terratest](https://terratest.gruntwork.io/): Go package to perform automated testing
 
 ## Plan
 Terraform plan should be run periodically,ideally automated, to validate that no manual changes have been made on the infrastructure.
